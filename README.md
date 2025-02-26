@@ -1,0 +1,1 @@
+Parallel Inverted Index implemented in C++ using Pthreads and Map-Reduce. It features dynamic workload distribution, with mapper threads extracting words from input files and reducer threads aggregating and sorting results. Barriers and mutexes ensure synchronization, enabling efficient and scalable text processing.
